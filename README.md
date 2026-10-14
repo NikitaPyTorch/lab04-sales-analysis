@@ -8,6 +8,9 @@
 Maven сообщает **BUILD SUCCESS**. Все 17 строк вывода `Application` совпали с
 образцом методички. Подробности приведены в [результатах проверки](docs/TEST_RESULTS.md).
 
+14 октября проект также открыт и проверен непосредственно в IntelliJ IDEA:
+`Application` завершилась с кодом 0, все **46 JUnit-тестов** прошли под JDK 25.
+
 Проект основан на [учебном репозитории преподавателя](https://gitlab.com/jaba-labs-bseu/lab04-sales-analysis),
 исходный коммит `79dcf84ea5cc9229c2e946f2a630198a47e45fa7`. В исходном Java-коде
 изменены только восемь участков TODO в `SalesAnalyzer.java`. Готовые проверки
@@ -29,6 +32,7 @@ java -cp target/classes by.bseu.pp.lab04.Application
 Вторая команда выполняется после успешной компиляции Maven. `java` и Maven
 должны использовать JDK 25.
 
+- [Построчный разбор с точными номерами строк для защиты](docs/LINE_BY_LINE_RU.md).
 - [Объяснение всех классов и восьми методов, подготовка к защите](docs/EXPLANATION_RU.md).
 - [Ответы на восемь контрольных вопросов](docs/CONTROL_QUESTIONS_RU.md).
 - [Пошаговый запуск в IntelliJ IDEA](docs/INTELLIJ_RU.md).
