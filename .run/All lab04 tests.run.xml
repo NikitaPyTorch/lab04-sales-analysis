@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="All lab04 tests" type="JUnit" factoryName="JUnit">
+    <module name="lab04-sales-analysis" />
+    <option name="PACKAGE_NAME" value="by.bseu.pp.lab04" />
+    <option name="TEST_OBJECT" value="package" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

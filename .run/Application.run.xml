@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Application" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="by.bseu.pp.lab04.Application" />
+    <module name="lab04-sales-analysis" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
